@@ -15,7 +15,7 @@
           <div class="dish-body">
             <h4>炭烤和牛</h4>
             <div class="price">¥ 388</div>
-            <p>澳洲 M7 和牛，备长炭慢烤，搭配山椒酱与时蔬</p>
+            <p>澳洲 M7 和牛，备长炭锁住汁水，山椒酱解腻提鲜，搭配当季时蔬</p>
           </div>
         </div>
         <div class="dish-card">
@@ -26,7 +26,7 @@
           <div class="dish-body">
             <h4>松露烩饭</h4>
             <div class="price">¥ 268</div>
-            <p>意大利 Carnaroli 米，黑松露，帕玛森芝士泡沫</p>
+            <p>意大利 Carnaroli 米慢煮至粒粒柔糯，黑松露刨片，帕玛森泡沫轻覆如云</p>
           </div>
         </div>
         <div class="dish-card">
@@ -37,7 +37,7 @@
           <div class="dish-body">
             <h4>柚子渍带子</h4>
             <div class="price">¥ 188</div>
-            <p>北海道鲜带子，柑橘柚子酱，鱼子酱点缀</p>
+            <p>北海道鲜带子薄切冰镇，柚子酱清酸开场，鱼子酱咸鲜收尾</p>
           </div>
         </div>
       </div>
