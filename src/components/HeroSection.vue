@@ -7,7 +7,7 @@ const emit = defineEmits<{ navigate: [id: string] }>()
     <div class="hero-bg"></div>
     <div class="hero-content">
       <div class="hero-suptitle">Est. 2018 · Shanghai</div>
-      <h1 class="hero-title">琥珀</h1>
+      <h1 class="hero-title">水晶</h1>
       <p class="hero-sub">现代亚洲料理 · 时令食材 · 匠心呈现</p>
       <a href="#reserve" class="hero-btn" @click.prevent="emit('navigate', '#reserve')">预约订座</a>
     </div>

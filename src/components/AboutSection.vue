@@ -3,14 +3,14 @@
     <div class="container">
       <div class="section-header">
         <div class="section-tag">Our Story</div>
-        <h2 class="section-title">关于琥珀</h2>
+        <h2 class="section-title">关于水晶</h2>
       </div>
       <div class="about-grid">
         <div class="about-image"></div>
         <div class="about-text">
           <h3>好好吃饭</h3>
-          <p>琥珀 2018 年开张。我们挑选好的食材，用简单的方法烹饪，让食物自己说话。没什么复杂的理念，就是想认真做好每道菜，让来的客人吃得舒服。</p>
-          <p>主厨林逸晨在东京、曼谷的厨房里待过很多年。琥珀没有太多噱头——只想用诚实的味道，招待每一位推门进来的你。</p>
+          <p>水晶 2018 年开张。我们挑选好的食材，用简单的方法烹饪，让食物自己说话。没什么复杂的理念，就是想认真做好每道菜，让来的客人吃得舒服。</p>
+          <p>主厨林逸晨在东京、曼谷的厨房里待过很多年。水晶没有太多噱头——只想用诚实的味道，招待每一位推门进来的你。</p>
           <div class="about-signature">
             <strong>林逸晨</strong>
             <span>创始人 &amp; 行政主厨</span>

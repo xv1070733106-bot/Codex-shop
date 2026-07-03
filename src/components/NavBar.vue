@@ -6,7 +6,7 @@ const emit = defineEmits<{ navigate: [id: string] }>()
 <template>
   <nav class="nav" :class="{ scrolled }">
     <div class="container">
-      <a href="#" class="nav-logo">琥珀</a>
+      <a href="#" class="nav-logo">水晶</a>
       <ul class="nav-links">
         <li><a href="#about" @click.prevent="emit('navigate', '#about')">餐厅</a></li>
         <li><a href="#menu" @click.prevent="emit('navigate', '#menu')">菜品</a></li>
