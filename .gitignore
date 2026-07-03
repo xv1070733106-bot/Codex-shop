@@ -1,0 +1,38 @@
+# 依赖
+node_modules
+dist
+.pnpm-store
+
+# 构建输出
+dist-ssr
+*.local
+
+# 编辑器
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+.idea
+*.swp
+*.swo
+*~
+
+# 系统
+.DS_Store
+Thumbs.db
+
+# 日志 & 临时文件
+vite.err
+vite.log
+vite_err.log
+*.log
+
+# 环境变量
+.env
+.env.local
+.env.*.local
+
+# pnpm
+pnpm-debug.log
+
+# TypeScript
+*.tsbuildinfo
